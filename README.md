@@ -78,7 +78,7 @@ Student-Placement-Predictor/
 
 1. Clone the repository
 
-git clone https://github.com/your-username/student-placement-predictor.git
+git clone https://github.com/your-username/Student_Placement_Predictor.git
 
 2. Open the project folder
 
